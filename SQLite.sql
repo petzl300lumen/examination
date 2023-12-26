@@ -18,6 +18,7 @@ CREATE TABLE animals(
 CREATE TABLE clients(
   id_client int PRIMARY KEY,
   FIO varchar(55),
+password varchar(55),
   id_animal varchar(55),
   FOREIGN KEY (id_animal) REFERENCES animals(id_animal)
 );
