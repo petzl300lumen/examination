@@ -4,5 +4,5 @@ INSERT INTO aplicationss (id,date_add,type_cur,description,status,id_animal,id_c
 INSERT INTO animals (id_animal, description) VALUES (1,"dercr1");
 INSERT INTO animals (id_animal, description) VALUES (2,"dercr2");
 
-INSERT INTO animals (id_client, FIO,id_animal) VALUES (1,"Иванов Иван Иванович",1);
-INSERT INTO animals (id_client, FIO,id_animal) VALUES (2,"Петр Петров Петрович",2);
+INSERT INTO animals (id_client, FIO,id_animal) VALUES (1,"Иванов Иван Иванович","jhvhgvg",1);
+INSERT INTO animals (id_client, FIO,id_animal) VALUES (2,"Петр Петров Петрович","5657",2);
